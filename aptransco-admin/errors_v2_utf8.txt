@@ -1,0 +1,23 @@
+﻿src/components/CourseCard.tsx(6,1): error TS6133: 'cn' is declared but its value is never read.
+src/components/ui/dropdown-menu.tsx(3,1): error TS6192: All imports in import declaration are unused.
+src/layout/MainLayout.tsx(14,17): error TS2322: Type '{ isSidebarCollapsed: boolean; }' is not assignable to type 'IntrinsicAttributes'.
+  Property 'isSidebarCollapsed' does not exist on type 'IntrinsicAttributes'.
+src/layout/Topbar.tsx(10,1): error TS6133: 'motion' is declared but its value is never read.
+src/layout/Topbar.tsx(13,11): error TS6196: 'TopbarProps' is declared but never used.
+src/pages/BatchManagement/index.tsx(2,61): error TS6133: 'LayoutGrid' is declared but its value is never read.
+src/pages/BatchManagement/index.tsx(2,81): error TS6133: 'ListIcon' is declared but its value is never read.
+src/pages/BatchManagement/index.tsx(3,16): error TS6133: 'CardHeader' is declared but its value is never read.
+src/pages/BatchManagement/index.tsx(3,28): error TS6133: 'CardTitle' is declared but its value is never read.
+src/pages/BatchManagement/index.tsx(3,39): error TS6133: 'CardContent' is declared but its value is never read.
+src/pages/BatchManagement/index.tsx(6,1): error TS6133: 'cn' is declared but its value is never read.
+src/pages/CourseManagement/CourseBuilder.tsx(20,1): error TS6133: 'motion' is declared but its value is never read.
+src/pages/CourseManagement/CourseBuilder.tsx(22,16): error TS6133: 'CardHeader' is declared but its value is never read.
+src/pages/CourseManagement/CourseBuilder.tsx(22,28): error TS6133: 'CardTitle' is declared but its value is never read.
+src/pages/CourseManagement/index.tsx(2,16): error TS6133: 'BookOpen' is declared but its value is never read.
+src/pages/Dashboard/index.tsx(12,1): error TS6133: 'motion' is declared but its value is never read.
+src/pages/Dashboard/index.tsx(24,10): error TS6133: 'loading' is declared but its value is never read.
+src/pages/EmployeeManagement/index.tsx(4,3): error TS2724: '"lucide-react"' has no exported member named 'PiChart'. Did you mean 'PieChart'?
+src/pages/EmployeeManagement/index.tsx(6,3): error TS6133: 'MapPin' is declared but its value is never read.
+src/pages/EmployeeManagement/index.tsx(22,1): error TS6133: 'cn' is declared but its value is never read.
+src/pages/InternshipManagement/index.tsx(9,3): error TS6133: 'ArrowUpDown' is declared but its value is never read.
+src/pages/InternshipManagement/index.tsx(23,28): error TS6133: 'CardTitle' is declared but its value is never read.
