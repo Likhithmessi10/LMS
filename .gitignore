@@ -1,0 +1,10 @@
+./node_modules
+./venv
+./dist
+./build_output.txt
+./build_output_v2.txt
+./.env
+./.env.example
+./.env.local
+./.env.production
+./.env.development
